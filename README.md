@@ -12,4 +12,7 @@ Consulting site: [risingtideautomation.com](https://risingtideautomation.com)
 - [activecampaign-sync-suite](https://github.com/mbulkeley/activecampaign-sync-suite): integrating ActiveCampaign with Google Docs, Sheets, and Slack for CRM data sync.
 - [meal-planner](https://github.com/mbulkeley/meal-planner): self-hosted Django app that turns a recipe into a schema.org page recipe managers can import.
 
+Also building Freshdesk/Jira reporting pipelines and support ops dashboards
+for a SaaS support team, private work, happy to talk through it.
+
 [Book a call](https://calendly.com/michael-bulkeley/consultation)
