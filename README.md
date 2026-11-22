@@ -26,7 +26,5 @@ I also run two Raspberry Pi homelabs - daily Slack briefings, monitoring,
 backups, and a couple of self-hosted Django apps. Those repos are private,
 as is the Freshdesk/Jira reporting and support ops dashboard work I do for a
 SaaS support team. Happy to talk through any of it.
-
-Also building Freshdesk/Jira reporting pipelines and support ops dashboards for a SaaS support team. That's private work, but I'm happy to talk through it.
  
 Find me on [LinkedIn](https://www.linkedin.com/in/michael-bulkeley/).
